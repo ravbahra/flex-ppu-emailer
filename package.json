@@ -1,0 +1,15 @@
+{
+  "name": "nd",
+  "version": "1.0.0",
+  "description": "PPU Script to rotate and email logs",
+  "main": "main.js",
+  "dependencies": {
+    "npm": "^3.10.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gqait@slb.com",
+  "license": "ISC"
+}

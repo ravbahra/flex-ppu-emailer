@@ -1,0 +1,13 @@
+{
+  "LMUTIL_PATH": "C:\\Program Files (x86)\\Schlumberger\\Schlumberger Licensing\\2017.1\\lmutil.exe",
+  "VENDOR_DAEMON": "slbsls",
+  "LICENSE_DIR" : "C:\\Licenses",
+  "EMAIL_ADDRESS_LOGS" : "sishqppu@slb.com",
+  "EMAIL_ADDRESS_CC_LIST" : ["gqait@slb.com"],
+  "EMAIL_ADDRESS_NOTIFICATIONS" : "sishqppu-notifications@slb.com",
+  "EMAIL_FROM" : "PPU-NoReply@cfs.slb.com",
+  "PPU_CUSTOMER_ID" : "X-XXXX",
+  "API_KEY" : "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",
+  "LOG_ROOT_PATH" : "C:\\ProgramData\\Schlumberger\\PPUNode"
+}
+
